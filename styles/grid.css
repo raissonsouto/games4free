@@ -1,0 +1,25 @@
+#grid {
+    position: absolute;
+    bottom: 0px;
+    background-color: #555;
+    height: 300px
+}
+
+#grid ul {
+    height: 100%;
+    width: 100%;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+#grid li {
+    flex: 1;
+    list-style: none;
+}
+
+#grid img{
+    height: 140px;
+}

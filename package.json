@@ -1,0 +1,19 @@
+{
+  "name": "games4free",
+  "version": "1.0.0",
+  "description": "It's a web extension that shows where you can \"purchase\" games for free",
+  "main": "scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raissonsouto/games4free.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raissonsouto/games4free/issues"
+  },
+  "homepage": "https://github.com/raissonsouto/games4free#readme"
+}
