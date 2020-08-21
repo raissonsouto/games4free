@@ -1,0 +1,21 @@
+  {
+
+  "manifest_version": 2,
+  "name": "games4free",
+  "version": "1.0",
+  "description": "Shows where you can find free games for pc",
+  "icons": {
+    "48": "icons/icon.png"
+  },
+
+  "permissions": [
+    "activeTab"
+  ], 
+
+  "browser_action": {
+    "default_icon": "icons/icon.png",
+    "default_title": "games4free",
+    "default_popup": "index.html"
+  }
+
+}
